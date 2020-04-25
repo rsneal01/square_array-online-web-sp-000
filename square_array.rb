@@ -8,6 +8,7 @@
 def square_array(array)
   squared_array = []
   !squared_array = array.each do |number|
+    number**2
   
 end
 end
